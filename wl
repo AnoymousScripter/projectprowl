@@ -1,3 +1,3 @@
 {
-"cogrippingtong": "cogrippingtong"    
+"cog": "cog"    
 }
